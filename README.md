@@ -6,7 +6,7 @@ Lucie Suchomelová
 ```
 
 ## K čemu slouží tento projekt
->V rámci předmětu Programování v jazyce Java (4IT101) v letním semestru 2023/24 na VŠE bych ráda měla snadno dostupné svoje domácí úkoly a projekty ze cvičení. Nechť inspirují a dodají nutné základy pro pochopení tohoto programovacího jazyka.
+>V rámci předmětu Programování v jazyce Java (4IT101) v letním semestru 2023/24 na VŠE bych ráda měla snadno dostupné mnou vypracované domácí úkoly a případně i projekty ze cvičení. Nechť inspirují a dodají nutné základy pro pochopení tohoto programovacího jazyka.
 
 ### Stručně o předmětu
 | | |
