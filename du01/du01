@@ -1,0 +1,11 @@
+První domácí úkol 
+
+* Vymyslete 5 tříd, které spolu souvisí (například Človek a Pes, člověk vlastní psa) 
+
+* Použijte jiné třídy, než se používaly na 2. cvičení
+ 
+* Každá třída bude mít 3 atributy a 3 metody 
+
+* Místo metod se na konzoli vypíše text na konzoli 
+
+* V main metodě vytvořte aspoň jednu instanci každé třídy a zavolejte toString
