@@ -1,0 +1,19 @@
+Druhý domácí úkol 
+
+* Vaším úkolem bude implementovat kartotéku pacientů 
+
+* Data ukládejte do seznamu v paměti 
+
+* U každého pacienta budete evidovat jméno, příjmení, věk, pohlaví a seznam lékařských záznamů (záznam bude v tomto případě řetězec, do kterého lékař může vložit libovolný text) 
+
+* Kartotéka bude obsahovat následující operace: 
+
+	* Registrace pacienta: vstupem budou data o pacientovi 
+
+	* Počet pacientů: metoda nebude mít vstup a vrátí počet pacientů v kartotéce 
+
+	* Průměrný věk: metoda spočítá průměrný věk pacientů v databázi 
+
+	* Vyhledání pacientů podle jména: Metoda bude mít na vstupu jméno a příjmení a vracet bude 	seznam pacientů, kteří mají dané jméno a příjmení 
+
+* Vaši implementaci pak ověřte tak, že v main metodě zaregistrujete 3 pacienty a následně zavoláte všechny implementované metody. Výsledky metod pak vypište na konzoli. 
