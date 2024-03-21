@@ -12,7 +12,7 @@ Lucie Suchomelová
 | | |
 | ------ | ------ |
 | programovací jazyk | JAVA |
-|  Integrované vývojové prostředí (IDE) | IntelliJ IDEA|
+|  integrované vývojové prostředí (IDE) | IntelliJ IDEA|
 | verze Javy | Java SE Development Kit 21.0.2 |
 
 #### Užitečné odkazy na předmět
