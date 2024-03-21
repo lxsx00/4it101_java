@@ -1,0 +1,27 @@
+Třetí domácí úkol 
+
+* Vaším úkolem bude implementovat nákupní košík, kde klíčové budou 2 třídy: 
+
+	* Item - třída reprezenutující zboží, obsahuje atributy: 
+
+ 		* Název 
+
+		* Cena za kus 
+
+		* Počet kusů 
+
+	* ShoppingCart - třída reprezentující nákupní košík, bude obsahovat následující metody: 
+
+		* getTotalPrice – metoda vrátí cenu za obsah košíku 
+
+		* getTotalPriceWithDiscount – metoda vrátí cenu za obsah košíku se slevou, která bude na vstupu metody 
+
+		* add -  metoda vloží položku do košíku 
+
+		* getItemNames – metoda vrátí názvy věcí v košíku (pokud je věc v košíku vícekrát, ve výsledku metody bude jen 1x) 
+
+		* Další metody můžete implementovat dle vašho uvážení 
+
+* Ke třídě ShoppingCart nezapomeňte napsat unit testy 
+
+ 
