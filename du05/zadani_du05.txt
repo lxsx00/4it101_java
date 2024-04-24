@@ -1,0 +1,49 @@
+Pátý domácí úkol 
+
+* Vaším úkolem je upravit program ze 4. domácího úkolu tak, aby se slovíčka ukládala do textového souboru a při spuštění testu se z něj i načítala. Formát souboru je na vašem uvážení. 
+
+* Tentokrát kromě zdrojových kódů odevzdejte i spustitelný jar archiv. 
+
+
+***********************************
+
+Zadání domácího úkolu 4
+
+* Vaším úkolem bude vytvořit jednoduchou aplikaci na zkoušení slovíček.  
+
+* Požadavky: 
+
+	* Program si bude ukládat slovíčka pouze do paměti (= není potřeba ukládat do souboru, to 	bude součást posledního domácího úkolu) 
+
+	* Aplikace bude s uživatelem komunikovat přes příkazovou řádku (není potřeba dělat 	grafické rozhraní).  
+
+	* Aplikace se bude ovládat 2 příkazy: 
+
+		* Vloz - vloží slovíčko do databáze 
+
+		* Otestuj – vybere náhodně 3 slovíčka z databáze a vyzkouší z nich uživatele (po 		posledním slovíčku zobrazí skóre) 
+
+Příklad běhu programu: 
+
+> vloz pes dog 
+
+> vloz kocka cat 
+
+> vloz auto car 
+
+> vloz mys mouse 
+
+> otestuj 
+
+> pes: dog 
+
+> Spravne 
+
+> mys: cat 
+
+> Spatne 
+
+> auto: car 
+
+> Spravne, tvoje skore je 2 ze 3 
+ 
