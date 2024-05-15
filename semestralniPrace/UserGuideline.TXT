@@ -1,0 +1,80 @@
+*****
+EN
+*****
+
+User Manual: Escape from the Garden Labyrinth
+
+Welcome, player! Before you delve into the mysterious world of the Garden Labyrinth,
+please read this user manual, which will provide you with essential information for successfully
+completing your adventure.
+
+Mission:
+Your task is to find your way out of the mysterious Garden Labyrinth. You must collect
+three keys - blue, red, and green - and open the gate, which is the only way out.
+Be cautious. The labyrinth is full of danger and goblins!
+
+Game Rules:
+
+    * Use Basic Commands: To interact with the game initially, use three basic
+        commands: 'go' (move to another room), 'quit' (end the game), and 'help' (display help).
+        By using these commands, you'll get all the necessary information.
+
+    * Don't Give Up: Everything you need to successfully complete the game can be found
+    inside the labyrinth. Be patient and thoroughly explore each room. You may fail several
+    times, but the game has a goal :-).
+
+    * Strategy is Key: Collect items, plan your moves, and choose your paths carefully.
+        Use your intelligence and strategic thinking to overcome all obstacles.
+
+Starting the Game:
+
+    * Launch the game in the terminal or command line.
+    * Read the introductory description and story of the game.
+    * Use the 'help' command to familiarize yourself with available commands and their usage.
+
+The Adventure Begins:
+Now that you know the basic rules and are ready for adventure, venture into the Garden Labyrinth
+and discover its secrets! Be cautious and prepared for unexpected challenges. Good luck, player!
+
+
+
+*****
+CZ
+*****
+
+Uživatelská příručka: Únik ze Zahradního Labyrintu
+
+Vítej dobrodruhu! Předtím, než se ponoříte do tajemného světa Zahradního Labyrintu,
+přečtěte si prosím tuto uživatelskou příručku, která vám poskytne nezbytné
+informace pro úspěšné dokončení vašeho dobrodružství.
+
+Zadání:
+Vaším úkolem je najít cestu ven z tajemného Zahradního Labyrintu.
+Musíte sebrat tři klíče - modrý, červený a zelený - a otevřít bránu,
+která je jediným východem. Buďte opatrní. Labyrint je plný nebezpečí a skřetů!
+
+Pravidla hry:
+
+    * Používejte základní příkazy: Pro interakci s hrou používejte ze začátku
+        tři základní příkazy: 'go' (přesun do jiné místnosti), 'quit' (ukončení hry)
+        a 'help' (zobrazení nápovědy). Pomocí těchto příkazů dostanete všechny potřebné
+        informace.
+
+    * Nevzdávejte se: Vše, co potřebujete k úspěšnému dokončení hry,
+        lze najít uvnitř labyrintu. Buďte trpěliví a důkladně prozkoumejte každou místnost.
+        Možná budete několikrát neúspěšní, ale hra má cíl :-).
+
+    * Strategie je klíčem: Sbírejte předměty, plánujte své kroky a vybírejte cesty opatrně.
+        Použijte svou inteligenci a strategické myšlení k překonání všech překážek.
+
+Zahájení hry:
+
+    * Spusťte hru v terminálu nebo příkazové řádce.
+    * Přečtěte si úvodní popis a příběh hry.
+    * Použijte příkaz 'help', abyste se seznámili s dostupnými příkazy a jejich použitím.
+
+
+Dobrodružství začíná:
+Teď, když znáte základní pravidla, a jste připraveni na dobrodružství, vydejte se
+do Zahradního Labyrintu a objevte jeho tajemství! Buďte opatrní a připraveni na nečekané výzvy.
+Hodně štěstí, dobrodruhu!

@@ -1,0 +1,88 @@
+*****
+EN
+*****
+
+Title: Escape from the Garden Labyrinth
+
+Description:
+Escape from the Garden Labyrinth is a text-based adventure game where the player navigates
+through a mysterious labyrinth filled with danger and goblins. The player's goal is
+to find a way out of the labyrinth by collecting three keys (blue, red, and green)
+and opening the gate, which is the only exit. Along the way, the player battles goblins,
+explores various rooms, and collects items to aid in reaching the goal.
+
+Game features:
+    * Labyrinth Environment: The player moves between different rooms of the labyrinth,
+        each with its own description and options for further movement.
+    * Goblin Combat: The player has the option to fight goblins encountered in certain room.
+        Player need weapon to win the fight.
+    * Item Collection: In some rooms, the player finds useful items such as keys
+        or weapons that can help in navigating the labyrinth.
+    * Gate Opening: The game ends successfully when the player finds
+        all three keys and opens the gate leading out of the labyrinth.
+
+Technical Requirements:
+    * Programming Language: Java
+    * Utilization of basic programming concepts such as classes, methods, conditions, loops, and arrays.
+    * User interface implemented using text-based input and output.
+    * User interactions performed through commands in the command line interface.
+    * Object-oriented programming used to organize game logic and data.
+
+Commands:
+    * GO: Command to move to another room.
+    * HELP: Command to display available commands and their usage.
+    * QUIT: Command to quit the game.
+    * FIGHT: Command to engage in combat with goblins.
+    * PICK: Command to pick up an item in the current room.
+    * REMOVE: Command to remove an item from the inventory.
+    * INVENTORY: Command to view the contents of the player's inventory.
+    * EXPLORE: Command to explore the current room for hidden items.
+    * RESTORE: Command to restore player's lives.
+    * LIVES: Command to view the player's remaining lives.
+    * GUIDELINE: Command to display guidelines and hints for the game.
+
+
+*****
+CZ
+*****
+
+Název hry: Únik ze zahradní labyrint
+
+Popis:
+Zahradní labyrint je textová dobrodružná hra, ve které hráč prochází tajemným labyrintem
+plným nebezpečí a skřetů. Cílem hráče je najít cestu ven z labyrintu tím, že sebere
+tři klíče (modrý, červený a zelený) a otevře bránu, která je jedinou cestou ven.
+Cestou hráč bojuje se skřety, prozkoumává různé místnosti a sbírá předměty,
+které mu pomohou při dosažení cíle.
+
+Funkce hry:
+
+    * Prostředí labyrintu: Hráč se pohybuje mezi různými místnostmi labyrintu,
+        každá s vlastním popisem a možnostmi pro další pohyb.
+    * Boj se skřety: Hráč má možnost bojovat se skřety, kteří se vyskytují
+        v některých místnostech. Hráč může bojovat pouze se zbraní.
+    * Sbírání předmětů: V některých místnostech hráč najde užitečné předměty
+        jako jsou klíče nebo zbraně, které mohou pomoci při průchodu labyrintem.
+    * Otevření brány: Hra končí úspěchem, když hráč najde všechny tři klíče
+        a otevře bránu, která vede ven z labyrintu.
+
+Technické požadavky:
+
+    * Programovací jazyk: Java
+    * Použití základních konceptů programování, jako jsou třídy, metody, podmínky, cykly a pole.
+    * Uživatelské rozhraní realizované pomocí textového vstupu a výstupu.
+    * Uživatelské interakce prováděné prostřednictvím příkazů v příkazové řádce.
+    * Využití objektově orientovaného programování k organizaci herní logiky a dat.
+
+Příkazy:
+    * JDI: Příkaz k přesunu do jiné místnosti.
+    * NÁPOVĚDA: Příkaz k zobrazení dostupných příkazů a jejich použití.
+    * KONEC: Příkaz k ukončení hry.
+    * BOJ: Příkaz k zapojení se do boje se skřety.
+    * SEBER: Příkaz k sebrání předmětu v aktuální místnosti.
+    * ODEBÍRÁNÍ: Příkaz k odstranění předmětu z inventáře.
+    * INVENTÁŘ: Příkaz k zobrazení obsahu hráčova inventáře.
+    * PROZKUMAT: Příkaz k prozkoumání aktuální místnosti na skryté předměty.
+    * OBNOVENÍ: Příkaz k obnovení zdraví nebo životů hráče.
+    * ŽIVOTY: Příkaz k zobrazení zbývajících životů hráče.
+    * POKYN: Příkaz k zobrazení pokynů a nápovědy ke hře.
